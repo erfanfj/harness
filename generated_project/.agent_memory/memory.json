@@ -1,0 +1,9 @@
+{
+  "workspace": "C:\\Users\\Erfan\\Desktop\\ai harnes\\generated_project",
+  "last_updated": "2026-10-14T14:24:19.071557",
+  "task_objective": "میخوام کلاینت با پاورشل کار کنه و اونجا کامند هارو اجرا کنه",
+  "scratchpad": "# Remote Command Management System\n\n## Tasks\n1-7. Base project + tests - DONE (6/6 passing)\n8. Live demo (in-process) - DONE (demo.py shows ls/dir results)\n9. LIVE E2E test of real server.py + client.py as separate processes over real TCP - DONE (e2e_live.py → PASS)\n10. PowerShell support for client - DONE\n    - client.py now runs commands via PowerShell by default on Windows (--shell powershell/cmd/auto)\n    - Added resolve_shell + run_command(shell) API, tests updated (9 tests, incl. PowerShell Get-ChildItem)\n    - e2e_live.py now uses PowerShell commands (PS_HELLO_123 + Get-ChildItem) → E2E PASS\n    - README updated with --shell docs\n11. Final verification - DONE (9 passed, py_compile ALL_OK)\n12. Finish with summary - NOW",
+  "completed": true,
+  "message_count": 168,
+  "estimated_tokens": 44796
+}
